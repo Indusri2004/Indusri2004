@@ -50,4 +50,4 @@ Git | GitHub | VS Code | MySQL | Tableau | Azure
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/indu-thanugula-50a403285)
